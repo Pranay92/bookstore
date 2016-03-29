@@ -1,0 +1,22 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "Simple AngularJS application to manage books list built using Material Design",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pranay92/bookstore.git"
+  },
+  "author": "pranaydubey3009@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pranay92/bookstore/issues"
+  },
+  "homepage": "https://github.com/Pranay92/bookstore#readme",
+  "dependencies": {
+    "lodash": "^4.6.1"
+  }
+}
